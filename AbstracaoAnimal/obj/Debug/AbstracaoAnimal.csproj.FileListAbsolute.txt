@@ -1,0 +1,10 @@
+C:\Users\Administrador\Desktop\AbstracaoAnimal\AbstracaoAnimal\bin\Debug\AbstracaoAnimal.exe.config
+C:\Users\Administrador\Desktop\AbstracaoAnimal\AbstracaoAnimal\bin\Debug\AbstracaoAnimal.exe
+C:\Users\Administrador\Desktop\AbstracaoAnimal\AbstracaoAnimal\bin\Debug\AbstracaoAnimal.pdb
+C:\Users\Administrador\Desktop\AbstracaoAnimal\AbstracaoAnimal\bin\Debug\Model.dll
+C:\Users\Administrador\Desktop\AbstracaoAnimal\AbstracaoAnimal\bin\Debug\Model.pdb
+C:\Users\Administrador\Desktop\AbstracaoAnimal\AbstracaoAnimal\obj\Debug\AbstracaoAnimal.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\AbstracaoAnimal\AbstracaoAnimal\obj\Debug\AbstracaoAnimal.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\AbstracaoAnimal\AbstracaoAnimal\obj\Debug\AbstracaoAnimal.csproj.CopyComplete
+C:\Users\Administrador\Desktop\AbstracaoAnimal\AbstracaoAnimal\obj\Debug\AbstracaoAnimal.exe
+C:\Users\Administrador\Desktop\AbstracaoAnimal\AbstracaoAnimal\obj\Debug\AbstracaoAnimal.pdb

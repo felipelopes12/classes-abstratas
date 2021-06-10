@@ -1,0 +1,6 @@
+C:\Users\Administrador\Desktop\AbstracaoAnimal\Model\bin\Debug\Model.dll
+C:\Users\Administrador\Desktop\AbstracaoAnimal\Model\bin\Debug\Model.pdb
+C:\Users\Administrador\Desktop\AbstracaoAnimal\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\AbstracaoAnimal\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\AbstracaoAnimal\Model\obj\Debug\Model.dll
+C:\Users\Administrador\Desktop\AbstracaoAnimal\Model\obj\Debug\Model.pdb
