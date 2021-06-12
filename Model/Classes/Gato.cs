@@ -6,12 +6,12 @@ namespace Model.Classes
     {
         public override void fazBarulho()
         {
-            Console.WriteLine("Gato fazendo barulho.");
+            Console.WriteLine("Gato fazendo Barulho...");
         }
 
         public override void Comer()
         {
-            Console.WriteLine("Gato esta comendo.");
+            Console.WriteLine("Gato esta Comendo...");
         }
     }
 }

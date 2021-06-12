@@ -6,7 +6,7 @@ namespace Model.Classes
     {
         public override void Vaguear()
         {
-            Console.WriteLine("Felino vagueando.");
+            Console.WriteLine("Felino Vagueando...");
         }
     }
 }

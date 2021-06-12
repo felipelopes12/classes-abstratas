@@ -18,14 +18,30 @@ namespace Model.Classes
 
         public void setPeso(int Peso) { this.Peso = Peso; }
 
-        public void Dorme()
-        {
-            Console.WriteLine("O Animal está a dormir.");
-        }
-
         public abstract void fazBarulho();
+       
         public abstract void Comer();
 
-        public abstract void Vaguear();
+        public virtual void Vaguear() { }  
+
+        public void Dormir()
+        {
+            Console.WriteLine("O Animal está Dormindo...");
+        }
+    
     }
 }
+
+
+/* public string Tamanho { get;set; }
+
+        public decimal Peso { get;set; }
+
+        public int Idade { get;set; }
+
+
+--------------------------------------------------
+ ABSTRACT substituido por VIRTUAL.
+*/
+
+

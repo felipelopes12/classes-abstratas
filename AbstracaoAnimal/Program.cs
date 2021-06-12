@@ -33,7 +33,7 @@ namespace AbstracaoAnimal
 
             l.fazBarulho();
             l.Comer();
-            l.Dorme();
+            l.Dormir();
 
             Console.WriteLine("----------------------------------------");
 
@@ -48,7 +48,7 @@ namespace AbstracaoAnimal
             g.fazBarulho();
             g.Vaguear();
             g.Comer();
-            g.Dorme();
+            g.Dormir();
 
             Console.ReadLine();
         }
