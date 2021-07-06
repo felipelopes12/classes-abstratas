@@ -1,5 +1,4 @@
-
-## ⚫Abstração em POO com C#
+## Abstração em POO com C#
 
 <p>A abstração é um dos recursos que tornam o paradigma de programação orientada a objetos tão útil e
 interessante de se trabalhar em projetos consideravelmente complexos. Classes e métodos abstratos, em POO,
