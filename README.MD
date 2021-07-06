@@ -27,6 +27,9 @@ essa definição é apenas para os métodos que serão implementados pelas class
 destacar que classes abstratas não podem ser instanciadas, elas servem apenas como molde para herança por
 classes filhas. E todas as classes abstratas devem ser, obrigatoriamente, escritas na classe filha.</p>
 
+------
+Feito por Amadeu Filipe Lopes 👋🏽 [Entre em contato!](https://www.linkedin.com/in/amadeu-filipe-lopes12/)
+⌨<br />
 
 
 
