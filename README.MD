@@ -1,5 +1,3 @@
-## 💻 Projeto 💻 
-Projeto em Csharp usando classes abstratas
 
 ## ⚫Abstração em POO com C#
 
@@ -25,6 +23,9 @@ classes filhas. E todas as classes abstratas devem ser, obrigatoriamente, escrit
 
 
 ## Diagrama utilizado
+
+Projeto em Csharp usando classes abstratas:
+
 <p align="center">
 <img width="100%" src="Diagrama/diagramaAbstracaoAnimal.png">
 </p>
