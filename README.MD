@@ -1,10 +1,6 @@
 ## 💻 Projeto 💻 
 Projeto em Csharp usando classes abstratas
 
-<p align="center">
-<img width="100%" src="Diagrama/diagramaAbstracaoAnimal.png">
-</p>
-
 ## ⚫Abstração em POO com C#
 
 <p>A abstração é um dos recursos que tornam o paradigma de programação orientada a objetos tão útil e
@@ -26,6 +22,12 @@ assinatura, sem corpo, para que cada classe filha os implemente como for mais ad
 essa definição é apenas para os métodos que serão implementados pelas classes filhas. Também é importante
 destacar que classes abstratas não podem ser instanciadas, elas servem apenas como molde para herança por
 classes filhas. E todas as classes abstratas devem ser, obrigatoriamente, escritas na classe filha.</p>
+
+
+## Diagrama utilizado
+<p align="center">
+<img width="100%" src="Diagrama/diagramaAbstracaoAnimal.png">
+</p>
 
 ------
 Feito por Amadeu Filipe Lopes 👋🏽 [Entre em contato!](https://www.linkedin.com/in/amadeu-filipe-lopes12/)
